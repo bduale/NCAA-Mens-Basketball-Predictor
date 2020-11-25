@@ -33,9 +33,12 @@ Exploratory Analysis.ipynb explores the data from kaggle and highlights a few ke
 * Statistics and wins (Field Goal Attempts, Field Goals made, Threes made, Free throws made, Free throws attempted offensive rebounds, defensive rebounds, blocks, steals, possessions, turnovers, personal fouls)
 
 # Preprocessing Steps: 
-Data Preparation.ipynb utilizes Pandas and NumPy to combine and clean the vase data sets. Then, creates a feature extraction model with Seaborn to highlight the most revelant features from the cleaned data set. Uses these features to create multiple classification models (Random Forest, Logistic Regression, Artificial Neural Network). Then creates a Confidence Score for each prediction made utilizing a KMeans clustering model. Finally, creates an Updset Score for each matchup utilizing a KMeans clustering model. 
+Data Preparation.ipynb utilizes Pandas and NumPy to combine and clean the vase data sets. Then, creates a feature extraction model with Seaborn to highlight the most revelant features from the cleaned data set. 
+
+Uses these features to create multiple classification models (Random Forest, Logistic Regression, Artificial Neural Network). Then creates a Confidence Score for each prediction made utilizing a KMeans clustering model. Finally, creates an Updset Score for each matchup utilizing a KMeans clustering model. 
 
 # Creating a Prediction Bracket
-MarchMadnessSimulator.ipynb creates a prediction bracket with the 64 teams in the March Madness Tournament (also includes the preliminary rounds). Contains the capability to output the prediction bracket as a PNG image.
+MarchMadnessSimulator.ipynb creates a prediction bracket with the 64 teams in the March Madness Tournament (also includes the preliminary rounds). 
+Contains the capability to output the prediction bracket as a PNG image.
 
 
